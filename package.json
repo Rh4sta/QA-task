@@ -1,0 +1,14 @@
+{
+  "name": "qa-task",
+  "version": "1.0.0",
+  "description": "Task for safety io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taras Shlapak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
